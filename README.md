@@ -22,7 +22,7 @@ To Solve the problem need to analyse data in respective to Sales,marketing,suppl
 ### For the sales team, Gross Margin and Net Sales (Revenue) are more important than the Net Profit as typically they have least or no control over operating expenses.
 ### For the marketing team, it would be important to understand the marketing spend change over a time period and subsequent Revenue / Gross Margin change.
 ### For the supply chain team, import metrics are,Forecast Accuracy & Risk (Out of stock or excess inventory), Net error and Absolute error
----------------------------------------------------------------------------------------------
+
 ### Data Discovery :  MYSQL DB data source 
 ### Project Planning using AIMS Grid-It is a project management tool which consists of four components-
   Purpose - (What to do exactly)
