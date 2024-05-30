@@ -15,7 +15,7 @@ This project harnessed data to stimulate growth and reveal significant insights 
       Direct Sales: Operates Atliq Store and exclusive Atliq outlets
       Distributors: Engages with distributors like Neptune Distributor in China
       
-# Market Challenge: Atliq Hardware has faced significant losses in the Latin American market.
+# Market Challenge: AtliQ Hardware, alongside businesses across Latin America, faced challenges due to outdated Excel-based analytics. Recognizing the need for modernization, we embarked on a journey toward data-driven decision-making.
 
 To Solve the problem need to analyse data in respective to Sales, marketing, supply chain and Finance sector
 ## Key Metrics are 
