@@ -1,5 +1,4 @@
-#  ![Atliq A logo-04](https://github.com/asimpatan/AtliQ-Hardware-Performance-Growth-and-Data-Analytics/assets/39867060/01daf39a-7476-4291-b701-520a0749607f)
- AtliQ-Hardware-Performance-Growth-and-Data-Analytics - POWER BI
+#  AtliQ-Hardware-Performance-Growth-and-Data-Analytics - POWER BI
 This project harnessed data to stimulate growth and reveal significant insights for AtliQ Hardware.
 
 ## Project Overview:
