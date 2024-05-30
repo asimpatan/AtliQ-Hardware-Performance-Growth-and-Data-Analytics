@@ -1,12 +1,12 @@
-#  AtliQ-Hardware-Performance-Growth-and-Data-Analytics - POWER BI
+#  Atliq-Hardware-Performance-Growth-and-Data-Analytics - POWER BI
 This project harnessed data to stimulate growth and reveal significant insights for AtliQ Hardware.
 
 ## Project Overview:
   Atliq Hardware, a company specializing in computer hardware sales, is undertaking a critical data analytics project to enhance decision-making and competitiveness. 
   This initiative is driven by recent losses in the Latin American market and increasing competition from rivals like Dell.
-  
-### Company Profile:
-## Business Model: Atliq Hardware manufactures and sells computer hardware to various clients including well-known retailers such as Croma, Best Buy, Staples, and Flipkart. 
+
+## Business Model: 
+  Atliq Hardware manufactures and sells computer hardware to various clients including well-known retailers such as Croma, Best Buy, Staples, and Flipkart. 
 ### The company operates through two main platforms:
       Brick & Mortar: Croma, Best Buy
       E-commerce: Amazon, Flipkart
@@ -17,7 +17,7 @@ This project harnessed data to stimulate growth and reveal significant insights 
       
 # Market Challenge: Atliq Hardware has faced significant losses in the Latin American market.
 
-To Solve the problem need to analyse data in respective to Sales,marketing,supply chain and Finance perspective.
+To Solve the problem need to analyse data in respective to Sales, marketing, supply chain and Finance sector
 ## Key Metrics are 
 ### For the sales team, Gross Margin and Net Sales (Revenue) are more important than the Net Profit as typically they have least or no control over operating expenses.
 ### For the marketing team, it would be important to understand the marketing spend change over a time period and subsequent Revenue / Gross Margin change.
